@@ -32,7 +32,7 @@ console.log(Obj2.__proto__.Other1); // Row
     
     const person1 = new Person();
     
-    console.log(person1.name); // Ravi
+    console.log(person1.name); // Prasanna
     console.log(person1.branch); // Mechanical Engineering
 
 // 3 .
